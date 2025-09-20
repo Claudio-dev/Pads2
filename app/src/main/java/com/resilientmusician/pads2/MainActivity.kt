@@ -1,3 +1,4 @@
+//Hola Qwen, ¿cómo estás?
 package com.resilientmusician.pads2
 
 import android.os.Bundle
